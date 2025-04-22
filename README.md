@@ -13,7 +13,7 @@ The purpose of this package is to remove NaN points of Ouster PointCloud2 from t
 ```
 mkdir -p ouster_bag_converter_ws/src
 cd ouster_bag_converter_ws/src
-git clone https://github.com/map4/ouster_bag_converter.git
+git clone https://github.com/MapIV/ouster_bag_converter.git
 cd ..
 catkin_make -DCMAKE_BUILD_TYPE=Release
 ```

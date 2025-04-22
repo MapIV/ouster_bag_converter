@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ouster_bag_converter</name>
+  <version>1.1.0</version>
+  <description>The ouster_bag_converter package</description>
+  <maintainer email="support@map4.jp">MAP IV, Inc.</maintainer>
+  <license>BSD-3-Clause</license>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>libpcl-all</depend>
+  <depend>sensor_msgs</depend>
+  <depend>rosbag</depend>
+  
+  <export>
+  </export>
+</package>
